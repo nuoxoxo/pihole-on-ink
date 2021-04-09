@@ -35,6 +35,6 @@ pi.hole/admin -> ---.---.0.x/admin
 
 Enjoy.
 
-<img src='https://raw.githubusercontent.com/malcolmnuoxu/pihole-on-ink/master/00.jpg' width="64%"/>
+<img src='https://raw.githubusercontent.com/nuoxoxo/pihole-on-ink/master/00.jpg' width="64%"/>
 
 
