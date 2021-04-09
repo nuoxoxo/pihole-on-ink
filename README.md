@@ -30,7 +30,7 @@ urllib2 -> urllib
 ## Change pi.hole/admin 
 
 ```
-pi.hole/admin -> ---.---.0.x/admin
+pi.hole/admin -> aeo.uae.oua.eox/admin
 ```
 
 Enjoy.
