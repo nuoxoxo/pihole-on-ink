@@ -10,13 +10,13 @@ Display the **number of blocked requests, and filtered traffic**, from [Pi-Hole]
 
 Edit `crontab`. 
 
-```
+```sh
 crontab -e
 ```
 
 Add the following line:
 
-```
+```sh
 */n * * * * python /home/pi/inky-hole/main.py
 ```
 
@@ -29,7 +29,7 @@ urllib2 -> urllib
 
 ## Change pi.hole/admin 
 
-```
+```sh
 pi.hole/admin -> aeo.uae.oua.eox/admin
 ```
 
